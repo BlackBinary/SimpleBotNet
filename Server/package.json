@@ -1,0 +1,15 @@
+{
+  "name": "rebelcore-botserver",
+  "version": "0.0.1",
+  "description": "A botnet created using C#, Node.js and laravel",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Rebelcore",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "nodejs-websocket": "^1.7.1"
+  }
+}
